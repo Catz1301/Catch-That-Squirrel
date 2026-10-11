@@ -6,7 +6,7 @@ public class MakeSquirrels : MonoBehaviour
 {
     public int numberOfSquirrels = 4;
     public GameObject Squirrel;
-    public GameObject terrainObject;
+    // public GameObject terrainObject;
     private Terrain terrain;
     public GameObject playerObj;
     // Start is called before the first frame update
